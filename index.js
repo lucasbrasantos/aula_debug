@@ -19,4 +19,4 @@ else{
     resposta = entrada('Acredito que voce ja tenha terminado o ensino medio. \nEstou certo?(reponda s/n)');
 }
 
-entrada('Fim do programa, precione ENTER para encerrar!');
+entrada('Fim do programa, precione ENTER para encerrar!'); //comentario
