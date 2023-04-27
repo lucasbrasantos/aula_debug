@@ -19,4 +19,12 @@ else{
     resposta = entrada('Acredito que voce ja tenha terminado o ensino medio. \nEstou certo?(reponda s/n)');
 }
 
+
+if (resposta === 'n') {
+    console.log('ok nao sei de tudo!');
+} else {
+    console.log('aoo blz vou virar chat gpt');
+}
+
+
 entrada('Fim do programa, precione ENTER para encerrar!'); //comentario
